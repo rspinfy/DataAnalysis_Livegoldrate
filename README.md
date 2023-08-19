@@ -1,2 +1,2 @@
 # DataAnalysis_Livegoldrate
-Gold Rate Live
+Live gold rate  Data Analysis using python
